@@ -3,7 +3,8 @@ local placeId = game.PlaceId
 local scripts = {
     [109983668079237] = "https://raw.githubusercontent.com/ingenioushits/Spawner/refs/heads/main/Steal-A-Brainrot-spawner.lua", -- Steal-A-Brainrot
     [7709344486]      = "https://raw.githubusercontent.com/ingenioushits/Spawner/refs/heads/main/Steal-A-Brainrot-spawner.lua", -- Steal-A-Brainrot
-    [920587237]       = "https://raw.githubusercontent.com/ingenioushits/Spawner/refs/heads/main/Adopt-Me-Spawner.lua"           -- Adopt Me
+    [920587237]       = "https://raw.githubusercontent.com/ingenioushits/Spawner/refs/heads/main/Adopt-Me-Spawner.lua",         -- Adopt Me
+    [127742093697776] = "https://raw.githubusercontent.com/ingenioushits/Spawner/refs/heads/main/Plants-Vs-Brainrot-Visual.lua" -- Plants-Vs-Zombie
 }
 
 if scripts[placeId] then
